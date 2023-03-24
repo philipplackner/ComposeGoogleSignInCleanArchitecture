@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeGoogleSignInCleanArchitecture</string>
+    <string name="web_client_id">856655760718-3cdovai12i4l8pv9g09pch05eva35e10.apps.googleusercontent.com</string>
 </resources>
